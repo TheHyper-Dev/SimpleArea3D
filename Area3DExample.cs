@@ -2,7 +2,7 @@ using System;
 using Godot;
 
 [GlobalClass]
-public sealed partial class Area3DTest : SimpleArea3D
+public sealed partial class Area3DExample : SimpleArea3D
 {
     public override void _EnterTree()
     {
